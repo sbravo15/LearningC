@@ -1,3 +1,7 @@
-Assignment-*/
+# ignore compiled binaries anywhere
 *.o
 *.out
+
+# optionally ignore the "run" executables in each assignment
+Assignment-*/run
+
